@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - v4
-
-env:
-    THEME_NAME: dark-moss
  
 permissions:
   contents: read
@@ -29,8 +26,6 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
-      - name: Fetch Quartz Theme
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action_v1.sh | bash -s -- $dark-moss
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
