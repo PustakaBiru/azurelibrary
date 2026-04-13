@@ -13,7 +13,7 @@ Just like Geburah, this raid kicked a lot of people's asses. Unlike Geburah, it'
 Up until Torment, everything goes fine for me with this boss. However, he starts to kick my ass at Lunatic difficulty, because I can't for the love of God consistently execute the Wakamo team for Phase 1. Despite that, I still managed to beat Yesod Lunatic, even if only once and with five minutes left before the ticket timer runs out.
 ![[20260328095755_1.jpg]]
 # Team Breakdown
-I used the "standard" three-team clear for Yesod Lunatic. The rotation for the first two are taken from here and the third one from here. The first and second team's order are swapped due to reasons I will explain below.
+I used the "standard" three-team clear for Yesod Lunatic. The rotation for the first two are taken from [here](https://b23.tv/A0hMXed) and the third one from [here](https://www.youtube.com/watch?v=GmzXjwpsfgQ). The first and second team's order are swapped due to reasons I will explain below.
 ![[20260320235124_1.jpg]]
 ## Team 1
 
@@ -62,11 +62,11 @@ This team can do 36 million damage, give or take 1 million.
 |            Mari            |  90   | UE40  |  MM1M  |  1XX  |      40      |    0/0/0    |  **29**/38   |
 |            Saki            |  90   | UE30  |  MM77  |  X99  |      30      |    0/0/0    |   **24**/7   |
 
-The least stressful of the three teams. Magical Suzumi was raised to UE30 purely for survival reason. At 4* Magical Suzumi will be dead mid-run. Likewise for Noa, but I don't think this was necessary. Saki works at 3*, but I already have her at UE30 because I'm using her a lot in Tactical Challenge Season 9.
+The least stressful of the three teams. Magical Suzumi was raised to UE30 purely for survival reason. At 4\* Magical Suzumi will be dead mid-run. Likewise for Noa, but I don't think this was necessary. Saki works at 3\*, but I already have her at UE30 because I'm using her a lot in Tactical Challenge Season 9.
 
 I didn't prepare a second team for this phase, banking on this team clearing Phase 2 on their own. Looks like my gambit paid off this time.
 # Afterword
-This is the most expensive raid I've ever done. My main source of expenses is raising Dealers' (star) to UE50 and raising Haruka (New Year), Kaede, and Mari from scratch. In the end, I spent around 200 million credits and 3,500 eligmas, leaving me at the end of the raid with only 20 million or so credits and around 1,300 eligmas.
+This is the most expensive raid I've ever done. My main source of expenses is raising Dealers' mystic to UE50 and raising Haruka (New Year), Kaede, and Mari from scratch. In the end, I spent around 200 million credits and 3,500 eligmas, leaving me at the end of the raid with only 20 million or so credits and around 1,300 eligmas.
 
 The next raid is Hieronymus Grand Assault. Based on my research, I can do double torment[^3] without spending any credits at all. I hope I don't spend too many resources on the next raid.
 
