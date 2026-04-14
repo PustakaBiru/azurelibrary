@@ -8,6 +8,7 @@ tags:
 The Total Assault on Yesod, Blue Archive's newest boss, has ended on March 24th. Ever since this boss was released, I've been hyping up Yesod. Why? Because, back when it was released in Japan server, I have all the students required to clear this boss at Lunatic.[^1]
 
 Just like Geburah, this raid kicked a lot of people's asses. Unlike Geburah, it's not because of the student requirements, but because people went into the raid without reading the boss skill description or raid guide. Either way, the end result is the same — in Asia server (where I play), the Platinum cutoff is at middle Extreme clear.[^2]
+
 ![[20260328235458_1.jpg]]
 
 Up until Torment, everything goes fine for me with this boss. However, he starts to kick my ass at Lunatic difficulty, because I can't for the love of God consistently execute the Wakamo team for Phase 1. Despite that, I still managed to beat Yesod Lunatic, even if only once and with five minutes left before the ticket timer runs out.
