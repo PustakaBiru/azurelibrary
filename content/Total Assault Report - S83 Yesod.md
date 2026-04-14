@@ -27,7 +27,7 @@ I used the "standard" three-team clear for Yesod Lunatic. The rotation for the f
 |         Neru (School)         |  90   | UE50  |  MMMM  | XXX-  |      50      |   25/25/0   | 30/6/**16**  |
 |            Kokona             |  90   | UE30  |  MMMM  | XXX-  |      30      |   0/0/25    |      16      |
 |              Rio              |  90   | UE40  |  MMMM  | XX9-  |      30      |    0/0/0    |      28      |
-|       Haruka (New Year)       |  90   |  3*   |  MM1M  | 7X7-  |      -       |      -      |  22/**20**   |
+|       Haruka (New Year)       |  90   |  3\*  |  MM1M  | 7X7-  |      -       |      -      |  22/**20**   |
 
 While the "standard" three-team clear used this team as the second one, I use this team first. This is for two reason:
 - Swimsuit Mika's EX doesn't depend on the boss' remaining HP, so swapping the order won't change the amount of damage she deals.
@@ -59,7 +59,7 @@ This team can do 36 million damage, give or take 1 million.
 |          Student           | Level | Stars | Skills | Gears | Weapon Level | Limit Break |     Bond     |
 | :------------------------: | :---: | :---: | :----: | :---: | :----------: | :---------: | :----------: |
 | Hoshino (Battle)<br>(Tank) |  90   | UE50  |  MMMM  |  XXX  |      50      |   0/25/0    | 25/23/**27** |
-|            Noa             |  90   |  4*   |  M1MM  |  XXX  |      -       |      -      |  **20**/20   |
+|            Noa             |  90   |  4\*  |  M1MM  |  XXX  |      -       |      -      |  **20**/20   |
 |      Suzumi (Magical)      |  90   | UE30  |  M11M  |  1XX  |      30      |   25/0/0    |   22/**5**   |
 |           Mimori           |  90   | UE60  |  MMMM  |  9XX  |      40      |    0/0/0    |  **23**/20   |
 |            Mari            |  90   | UE40  |  MM1M  |  1XX  |      40      |    0/0/0    |  **29**/38   |

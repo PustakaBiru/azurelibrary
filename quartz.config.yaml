@@ -47,7 +47,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: obsidian
       mode: both
   - source: github:quartz-community/created-modified-date
     enabled: true
