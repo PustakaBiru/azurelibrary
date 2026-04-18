@@ -112,8 +112,8 @@
     "explorer": {
       "source": "github:quartz-community/explorer",
       "resolved": "https://github.com/quartz-community/explorer.git",
-      "commit": "583373b43caf7f09911b10dcf1303800e37d8318",
-      "installedAt": "2026-04-17T02:35:24.161Z"
+      "commit": "377297006e725a2f3f173cf5822b61424a6fefdd",
+      "installedAt": "2026-04-18T03:28:44.165Z"
     },
     "favicon": {
       "source": "github:quartz-community/favicon",
@@ -166,8 +166,8 @@
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
-      "commit": "53360734465816d8ec8ddf08cb0795bcb2760013",
-      "installedAt": "2026-04-17T02:35:25.868Z"
+      "commit": "4adcea8ea60b229592c891bd14dd5c4270cded7a",
+      "installedAt": "2026-04-18T03:28:46.154Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",
