@@ -1,13 +1,21 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
+<<<<<<< HEAD
   pageTitle: Quartz 5
+=======
+  pageTitle: An Azure Library
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
+<<<<<<< HEAD
   baseUrl: pustakabiru.github.io
+=======
+  baseUrl: pustakabiru.github.io/azurelibrary
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
   ignorePatterns:
     - private
     - templates
@@ -69,7 +77,14 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+<<<<<<< HEAD
     order: 50
+=======
+    layout:
+      position: right
+      priority: 60
+    # order: 50
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -104,12 +119,16 @@ plugins:
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
+<<<<<<< HEAD
     enabled: true
     options:
       iterations: 600000
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
+=======
+    enabled: false
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -202,7 +221,22 @@ plugins:
     enabled: false
     options:
       provider: giscus
+<<<<<<< HEAD
       options: {}
+=======
+      options:
+        repo: TODO:username/repo-name
+        repoId: TODO:your-repo-id
+        category: Announcements
+        categoryId: TODO:your-category-id
+        mapping: url
+        strict: true
+        reactionsEnabled: true
+        inputPosition: bottom
+        lightTheme: light
+        darkTheme: dark
+        lang: en
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
     layout:
       position: afterBody
       priority: 10
@@ -213,7 +247,21 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
+<<<<<<< HEAD
     enabled: false
+=======
+    enabled: true
+    options:
+      title: Recent Notes
+      limit: 5
+      linkToMore: false
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: left
+      priority: 60
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -243,6 +291,15 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+<<<<<<< HEAD
+=======
+  - source: github:saberzero1/quartz-themes
+    enabled: true
+    options:
+      theme: zario
+      mode: both
+    order: 10
+>>>>>>> 452308ad4b27e92d1cdb9e927c79559f3f3d7b85
 layout:
   groups:
     toolbar:
